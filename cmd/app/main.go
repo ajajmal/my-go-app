@@ -4,7 +4,7 @@ import (
 "github.com/gin-gonic/gin"
 "log"
 "net/http"
-"github.com/ajajmal/my-go-app/config"
+"github.com/ajajmal/my-go-app/internal/config"
 )
 
 func main() {
